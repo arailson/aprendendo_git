@@ -1,0 +1,2 @@
+Sobre o conteudo de GIT consegui absorver bem acompanhando as video aulas, e fixei bem os comandos, "gid add", "git commit", "git status", "git diff", "git push", "git pull"
+Todos esses comando consegui pegar muito bem, agora sobre o conceito de Branches eu entendi também, porém sinto que preciso utilizar mais isso para firmar esse conhecimento 
